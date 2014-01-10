@@ -1,0 +1,27 @@
+CAM output for current project FLEXTYPE_SC.T3001
+Output on 10. Jan 2014, 14:38h
+Current project created using TARGET 15.6.0.11 light
+Output created using TARGET 3001! V15.6.0.11
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 213.9 mm x 20.541753 mm
+
+Description of created files as follows:
+
+FLEXTYPE_SC.Top = 16 = Copper top L2   ( *.Top )
+FLEXTYPE_SC.Bot = 2 = Copper bottom L1   ( *.Bot )
+FLEXTYPE_SC.Tool = drill tool list
+FLEXTYPE_SC.Drill = Galvanised drills
+FLEXTYPE_SC.Outline = 23 = PCB outline   ( *.Outline )
+FLEXTYPE_SC.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+FLEXTYPE_SC.Apr = TARGET 3001! aperture list
+FLEXTYPE_SC.Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0.150mm: (0.100 at -152.85 | -3.25) on layer 23

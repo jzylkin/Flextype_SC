@@ -1,5 +1,5 @@
 CAM output for current project FLEXTYPE_SC.T3001
-Output on 10. Jan 2014, 14:38h
+Output on 16. Jan 2014, 02:23h
 Current project created using TARGET 15.6.0.11 light
 Output created using TARGET 3001! V15.6.0.11
 DELIVERY ADDRESS:
@@ -10,7 +10,7 @@ DELIVERY ADDRESS:
   Tel: 
   FAX: 
   eMail: 
-Size of PCB: 213.9 mm x 20.541753 mm
+Size of PCB: 214.7 mm x 20.541753 mm
 
 Description of created files as follows:
 
@@ -25,3 +25,5 @@ FLEXTYPE_SC.Whl = Eagle compatible aperture list
 
 
 Caution: Smallest track is thiner than 0.150mm: (0.100 at -152.85 | -3.25) on layer 23
+
+Caution: Wrong font type at (-157.95 | 11.55) on layer 15
